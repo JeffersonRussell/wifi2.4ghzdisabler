@@ -1,0 +1,6 @@
+id=wifi2.4ghzdisabler
+name=WiFi2.4GhzDisabler
+version=v1
+versionCode=1
+author=JeffersonRussell
+description=Disable WiFi 2.4Ghz Band on your Qualcomm device
